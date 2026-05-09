@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://master234534567.github.io/lamar-s-electric-ascent",
+  "homepage": "https://github.com/master234534567/LAMAR-jackson",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
